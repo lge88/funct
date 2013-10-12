@@ -21,9 +21,6 @@
   "scripts": [
     "lib/index.js"
   ],
-  "styles": [
-    "lib/index.css"
-  ],
   "main": "lib/index.js",
   "_rename_": [
     "component.json",
