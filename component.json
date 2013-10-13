@@ -5,8 +5,6 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "lge88/extend": "*",
-    "lge88/composable": "*"
   },
   "development": {
     "lge88/expect.js": "*"
