@@ -4,8 +4,7 @@
   "description": "funct",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {
-  },
+  "dependencies": {},
   "development": {
     "lge88/expect.js": "*"
   },
@@ -43,5 +42,6 @@
   "paths": [
     "/home/GL/Develop/js/ise/lib",
     "/home/GL/Develop/js/ise/lib-client"
-  ]
+  ],
+  "styles": []
 }
